@@ -1,0 +1,40 @@
+# Ante-mortem
+
+- produit ne répondant pas aux besoins
+  - => sondage marché
+  - => communication claire sur la promesse
+  - => évolutions nécessaires
+- produit non fonctionnel (inutilisable, buggué, ...)
+  - les plus gros problèmes
+    - d'installation => vérifier et revérifier, documentation claire
+    - d'utilisation => doivent avoir été éprouvés avec Evaneos et durant le soft launch, documentation
+  - => soft launch pour éprouver la solution auprès d'une cible douce (relations et connaissance)
+- pas assez de clients
+  - prospecter en amont du lancement dur
+  - élargir la cible
+    - espaces de coworking
+    - autres startups
+    - autre type de client
+    - autre région, pays
+  - prix inadécquat
+    - tester le pricing
+    - reduction et évolution du pricing. Comment gérer les clients déjà facturés ?
+  - communication inadécquat => bien faire attention à l'adapter à la cible, faire des usecases
+  - manque de confiance (boite pas connue) => témoignage et assurance
+  - manque de visibilité => seo, adwords, ...
+- démotivation
+  - points réguliers projet
+  - points réguliers business
+  - reporting business partagé, alertes
+- problèmes juridiques
+  - s'assurer des parties contractuelles au hard launch
+  - formation sur la création d'entreprise
+  - appel à un cabinet juridique
+- concurrence
+  - rester discret durant le soft launch
+  - garantir une ou des barrières à l'entrée
+    - partie serveur
+    - cible (réseautage en bonne et due forme)
+    - attaquer directement le FR et EN (même si les ventes à l'étranger ne sont qu'ultérieures)
+    - s'assurer une couverture médiatique pour la "renommée"
+    -

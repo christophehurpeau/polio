@@ -1,5 +1,14 @@
 # Concurrents
 
+## En vrac
+
+- [CityMeo](https://citymeo.fr/affichage-dynamique)
+- [Cube display](http://www.cube-display.fr/fr/solutions-affichage-dynamique/communication-interne-corporate.php)
+- [PinoFlow](https://www.pingflow.com/affichage-dynamique/)
+- [Telelogos](https://www.telelogos-media4display.com/le-logiciel/domaine-activite/entreprise-corporate)
+- [Signage Live](https://signagelive.com/)
+
+
 ## [Signage Live](https://signagelive.com/)
 
 ### Solution:

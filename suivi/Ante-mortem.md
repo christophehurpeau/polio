@@ -37,4 +37,3 @@
     - cible (réseautage en bonne et due forme)
     - attaquer directement le FR et EN (même si les ventes à l'étranger ne sont qu'ultérieures)
     - s'assurer une couverture médiatique pour la "renommée"
-    -
